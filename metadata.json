@@ -1,0 +1,6 @@
+{
+  "name": "Bayora — AI Crash Test Lab",
+  "description": "Zero-trust adversarial AI safety testing platform with role-isolated Red/Blue vaults, bounded ephemeral model sessions, D3.js workflow telemetry, in-app notifications, and SHA-256 tamper-evident audit chains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
